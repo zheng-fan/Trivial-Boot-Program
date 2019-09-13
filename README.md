@@ -6,10 +6,10 @@ This program is an installer which can write the main program to the MBR of a fl
 
 The main program has the following functions:
 
-* Reset PC: Just reboot PC
-* Start system: Boot operating system in the hard drive
-* Clock: Display current time
-* Set clock: Input and set the time in motherboard
+* **Reset PC**: Just reboot PC
+* **Start system**: Boot operating system in the hard drive
+* **Clock**: Display current time
+* **Set clock**: Input and set the time in motherboard
 
 # Environment
 
