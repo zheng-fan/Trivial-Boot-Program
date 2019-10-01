@@ -1,4 +1,4 @@
-This is a 16-bit program that can run without an operating system and do some work including booting an operating system. It's purely written in 8086 16-bit assembly language (Intel syntax). 
+This is a 16-bit program that can run without an operating system and do some work including booting an operating system. It's purely written in 8086 16-bit assembly language (Intel syntax).
 
 # Features
 
